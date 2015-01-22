@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?> 
+<plist>
+<dict>
+	<key>szGameTitleName</key>
+	<string>MyArmyGame</string>
+	<key>szWelcomeString</key>
+    <string>HelloWorld, Welcome to the Tiny Army World !~!~!~</string>
+	<key>szCloseNormalButtonPath</key>
+    <string>CloseNormal.png</string>
+	<key>szCloseSelectButtonPath</key>
+	<string>CloseSelected.png</string>
+	<key>szHelloWorldSpritePath</key>
+	<string>HelloWorld.png</string>
+	<key>szGameBeginScene</key>
+	<string>GameBeginScene.jpg</string>
+	<key>szGameLogoScene</key>
+	<string>GameLogo.png</string>
+	<key>szGameLogoSound</key>
+	<string>GameLogo.wav</string>
+</dict>
+</plist>
