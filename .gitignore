@@ -5,6 +5,7 @@
 *.o
 *.obj
 
+
 # Precompiled Headers
 *.gch
 *.pch
@@ -21,7 +22,7 @@
 *.lai
 *.la
 *.a
-*.lib
+
 
 # Executables
 *.exe
@@ -228,3 +229,4 @@ FakesAssemblies/
 *.tlog
 *.idb
 *.res
+Debug.win32/
